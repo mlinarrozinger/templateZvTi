@@ -1,0 +1,24 @@
+#homeHeading {
+    font-size: 96px;
+    color: gold;
+}
+/*.panel-transparent .panel-heading {
+                border-radius: 10px;
+}*/
+.header-content { 
+    background: rgba(0,0,0,0.15)!important;
+    
+}/*
+.header-content-inner panel panel-primary panel-transparent {
+    border-radius: 50px;
+    background: rgba(0,0,0,0.15)!important;
+} */
+.panel-transparent {
+        background: none;
+    }
+
+.panel-transparent .panel-heading {
+    background: rgba(122, 130, 136, 0.2)!important;
+}
+
+    
